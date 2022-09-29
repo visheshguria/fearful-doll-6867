@@ -21,7 +21,7 @@ public class DataBaseUtil {
 		}
 		
 		try {
-		connec =	DriverManager.getConnection("jdbc:mysql://localhost:3306/mgnrega","root","aman");
+		connec =	DriverManager.getConnection("jdbc:mysql://localhost:3306/mgnrega","root","vishesh");
 		} catch (SQLException e) {
 			System.out.println(e.getMessage());
 		}
@@ -30,25 +30,4 @@ public class DataBaseUtil {
 		
 		return connec;
 	}
-	
-//	public static void main(String[] args) {
-//		
-//	  Connection cc  =  DataBaseUtil.provideConnection();
-//		
-//	  try {
-//	PreparedStatement ps =	cc.prepareStatement("insert into aman values(?,?)");
-//		ps.setInt(1, 11);
-//		ps.setString(2, "amnann");
-//		
-//		ps.executeUpdate();
-//		
-//		
-//	} catch (SQLException e) {
-//		// TODO Auto-generated catch block
-//		e.printStackTrace();
-//	}
-//	  
-//	  
-//	}
-//	
 }
