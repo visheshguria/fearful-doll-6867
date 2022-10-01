@@ -78,8 +78,8 @@ The MGNREGA was initiated with the objective of “enhancing livelihood security
 
 
 ## Created By :-
-[Vishesh Guria]
-- `(Flow and Design)`
+# Vishesh Guria
+
 
 ### Portfolio Link
 https://visheshguria.github.io/
