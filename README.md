@@ -1,7 +1,7 @@
 # fearful-doll-6867 (MGNREGA Project)
 
 # MGNREGA( Mahatma Gandhi National Rural Employment Guarantee Act) Project 
-### Project Description
+### Description
 The MGNREGA was initiated with the objective of “enhancing livelihood security in rural areas by providing at least 100 days of guaranteed wage employment in a financial year, to every household whose adult members volunteer to do unskilled manual work. Completed the project with same functionalities.
 
 ## Tech Stack Used :- 
@@ -75,4 +75,15 @@ The MGNREGA was initiated with the objective of “enhancing livelihood security
 - **View Employee Wages & working days by ID**
 
 ![Landing Page](https://miro.medium.com/max/720/1*Hwp-VDtsynZ2Xs1Nhkmelg.jpeg)
+
+
+## Created By :-
+[Vishesh Guria]
+
+### Portfolio Link
+https://visheshguria.github.io/
+
+
+
+
 
